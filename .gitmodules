@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cassandRa"]
+	path = cassandRa
+	url = https://github.com/jcdterry/cassandra
+	shallow = true
+	registered = true
